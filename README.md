@@ -9,7 +9,7 @@ This is an adapted Flower Bubble Machine Toy with a wireless remote controller. 
 2. As the button is pressed for the first time, the flower bubble machine will swing left to right with music being played in the background
 3. The button is pressed for the second time. The flower bubble machine will shoot out bubbles till the button is pressed again, signalling it to stop
 
-<img src="photos/Flower-Bubble-Machine.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
+<img src="photos/Flower-Bubble-Machine.jpg" width="500" style="border-radius: 15px" alt="Picture of Adapted Flower Bubble Machine A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -19,7 +19,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the TEMPLATE, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Adapted Flower Bubble Machine, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
@@ -31,9 +31,9 @@ The [Maker Guide](/documentation/Product_Manual_Adapted_Flower_Bubble_Machine.pd
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Template_BOM.csv) lists all of the parts and components required to build the Template Device.
+The [Bill of Materials](/documentation/Adapted_Flower_Bubble_Machine_BOM.csv) lists all of the parts and components required to build the Adapted Flower Bubble Machine Device.
 
-### 3. Assemble the Template Device
+### 3. Assemble the Adapted Flower Bubble Machine Device
 
 Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Adapted_Flower_Bubble_Machine.pdf) for the tools and steps required to build each portion.
 
@@ -59,7 +59,7 @@ Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
+- Everything needed or used to design, make, test, or prepare the Adapted Flower Bubble Machine is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
